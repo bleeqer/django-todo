@@ -1,0 +1,6 @@
+name, details, check if it's important, mark in time, when the todo was created, order(oldest first)
+
+and connecting these things to a perticular user
+
+
+유저별로 오브젝트 불러오기
